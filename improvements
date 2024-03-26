@@ -1,1 +1,3 @@
-
+Description: The code lacks comments, making it difficult for contributors to understand its functionality. 
+Add appropriate comments to explain the code's functionality.
+Commit message: "Added comments to improve code readability."
